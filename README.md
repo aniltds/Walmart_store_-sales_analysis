@@ -10,6 +10,6 @@ o	Store wise analysis of holiday and non-holiday weekly sales
 
 o	Used Heatmap to remove less correlated features and OLS statistics for feature selection
 
-o	For model evaluation choose best r2 score using cross validation
+o	For model evaluation best r2 score choosen
 
 o	Verified model test prediction performance using Regression and Distance plot.  
